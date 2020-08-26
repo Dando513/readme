@@ -1,12 +1,26 @@
-#ARMG
+# ARMG
   
-  ## Description: ##This app generates readmes based on command prompt q/a in node
+  ![MIT](https://img.shields.io/badge/License-MIT-blue)
+
+  ## Description: 
+  
+  This app generates readmes based on command prompt q/a in node
  
-  ## Installer: This app is downloaded in .zip format
+  ## Installer: 
+  
+  This app is downloaded in .zip format
 
-  ## Contributing: DM and JJ
+  ## Contributing: 
+  
+  DM and JJ
 
-  // ##License: "
-[!(https://img.shields.io/badge/License-MIT-blue)]"
+  ## License: 
 
+  MIT
+
+  ## Testing:
+
+```js
+  npm run test
+```
   

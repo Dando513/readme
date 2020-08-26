@@ -27,6 +27,11 @@ const questions = [
       name: 'license',
       message: 'What license does your app have?',
       default: 'MIT',
+    },
+    {
+        name: 'testing',
+        message: 'What command do you run for testing?',
+        default: 'npm run test'
     }
   ];
 
